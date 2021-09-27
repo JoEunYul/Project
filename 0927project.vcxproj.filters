@@ -24,7 +24,10 @@
     <ClCompile Include="0927.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="홀수짝수.cpp">
+    <ClCompile Include="if문.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="switch문.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

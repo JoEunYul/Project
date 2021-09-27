@@ -142,7 +142,8 @@
     <ClCompile Include="구구단.cpp" />
     <ClCompile Include="소스.cpp" />
     <ClCompile Include="0927.cpp" />
-    <ClCompile Include="홀수짝수.cpp" />
+    <ClCompile Include="if문.cpp" />
+    <ClCompile Include="switch문.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
